@@ -1,0 +1,197 @@
+DESAFIO 01 - Criar um Script Python que leia o nome da pessoa e mostre uma mensagem dando boas vindas de acordo com o valor digitado ✅
+
+DESAFIO 02 - Criar um Script Python que leia o dia, mês e o ano de nascimento e que mostre com o formato correto da data ✅
+
+DESAFIO 03 - Criar um Script que leia dois números e tente somar entre eles ✅
+
+DESAFIO 04 - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possiveis.✅
+
+DESAFIO 05 - Faça um programa que leia um número e exiba seu sucessor e antecessor.✅
+
+DESAFIO 06 - Crie um algoritimo que leia um número e mostre o seu dobro, triplo e raiz quadrada.✅
+
+DESAFIO 07 - Desenvolva um programa que leia as duas notas de um aluno, calcue e mostre sua média.✅
+
+DESAFIO 08 - Escreva um programa que leia um valor em metros e converta para centimetros e milimetros.
+
+DESAFIO 09 - Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+
+DESAFIO 10 - Crie um programa que leia quanto dinheiro a pessoa tem na carteira e quantos dolares ela pode comprar, US$1.00 = R$ 3,27
+
+DESAFIO 11 - Programa que leia a largura e altura da parede em metros e calcule a área e quantidade de tinta necessária para pinta-la, sabendo que cada litro pinta uma area de 2m²
+
+DESAFIO 12 - Faça um programa que leia o preço de um produto e depois mostre o valor com 5% de desconto
+
+DESAFIO 13 - Faça um algoritimo que le o salário do usuario e mostre seu novo salario com 15% de aumento.
+
+DESAFIO 14 -
+
+DESAFIO 15 -
+
+DESAFIO 16 -
+
+DESAFIO 17 -
+
+DESAFIO 18 -
+
+DESAFIO 20 -
+
+DESAFIO 21 -
+
+DESAFIO 22 -
+
+DESAFIO 23 -
+
+DESAFIO 24 -
+
+DESAFIO 25 -
+
+DESAFIO 26 -
+
+DESAFIO 27 -
+
+DESAFIO 28 -
+
+DESAFIO 29 -
+
+DESAFIO 30 -
+
+DESAFIO 31 -
+
+DESAFIO 32 -
+
+DESAFIO 33 -
+
+DESAFIO 34 -
+
+DESAFIO 35 -
+
+DESAFIO 36 -
+
+DESAFIO 37 -
+
+DESAFIO 38 -
+
+DESAFIO 39 -
+
+DESAFIO 40 -
+
+DESAFIO 41 -
+
+DESAFIO 42 -
+
+DESAFIO 43 -
+
+DESAFIO 44 -
+
+DESAFIO 45 -
+
+DESAFIO 46 -
+
+DESAFIO 47 -
+
+DESAFIO 48 -
+
+DESAFIO 49 -
+
+DESAFIO 50 -
+
+DESAFIO 51 -
+
+DESAFIO 52 -
+
+DESAFIO 53 -
+
+DESAFIO 54 -
+
+DESAFIO 55 -
+
+DESAFIO 56 -
+
+DESAFIO 57 -
+
+DESAFIO 58 -
+
+DESAFIO 59 -
+
+DESAFIO 60 -
+
+DESAFIO 61 -
+
+DESAFIO 62 -
+
+DESAFIO 63 -
+
+DESAFIO 64 -
+
+DESAFIO 65 -
+
+DESAFIO 66 -
+
+DESAFIO 67 -
+
+DESAFIO 68 -
+
+DESAFIO 69 -
+
+DESAFIO 70 -
+
+DESAFIO 71 -
+
+DESAFIO 72 -
+
+DESAFIO 73 -
+
+DESAFIO 74 -
+
+DESAFIO 75 -
+
+DESAFIO 76 -
+
+DESAFIO 77 -
+
+DESAFIO 78 -
+
+DESAFIO 79 -
+
+DESAFIO 80 -
+
+DESAFIO 81 -
+
+DESAFIO 82 -
+
+DESAFIO 83 -
+
+DESAFIO 84 -
+
+DESAFIO 85 -
+
+DESAFIO 86 -
+
+DESAFIO 87 -
+
+DESAFIO 88 -
+
+DESAFIO 89 -
+
+DESAFIO 90 -
+
+DESAFIO 91 -
+
+DESAFIO 92 -
+
+DESAFIO 93 -
+
+DESAFIO 94 -
+
+DESAFIO 95 -
+
+DESAFIO 96 -
+
+DESAFIO 97 -
+
+DESAFIO 98 -
+
+DESAFIO 99 -
+
+DESAFIO 100 -

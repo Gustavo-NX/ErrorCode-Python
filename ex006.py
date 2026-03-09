@@ -1,0 +1,5 @@
+valor = int(input('Me de algum valor: '))
+print('')
+print('O dobro deste número é: {}'.format(valor**2))
+print('O triplo é: {}'.format(valor**3))
+print('E a raiz quadrada é: {:.2f}'.format(valor**(1/2)))

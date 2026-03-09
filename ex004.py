@@ -1,0 +1,7 @@
+receba = input('Digite qualque coisa :')
+print('TIPO: {}'.format(type(receba)))
+print('É um número ? {}'.format(receba.isnumeric()))
+print('Tem APENAS letras ? {}'.format(receba.isalpha()))
+print('Pode ser impresso ? {}'.format(receba.isprintable()))
+print('É tudo minusculo ? {}'.format(receba.islower()))
+print('É tudo maiusculo ? {}'.format(receba.isupper()))
