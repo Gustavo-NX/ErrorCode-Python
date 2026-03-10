@@ -12,9 +12,9 @@ DESAFIO 06 - Crie um algoritimo que leia um número e mostre o seu dobro, triplo
 
 DESAFIO 07 - Desenvolva um programa que leia as duas notas de um aluno, calcue e mostre sua média.✅
 
-DESAFIO 08 - Escreva um programa que leia um valor em metros e converta para centimetros e milimetros.
+DESAFIO 08 - Escreva um programa que leia um valor em metros e converta para centimetros e milimetros.✅
 
-DESAFIO 09 - Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+DESAFIO 09 - Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.✅
 
 DESAFIO 10 - Crie um programa que leia quanto dinheiro a pessoa tem na carteira e quantos dolares ela pode comprar, US$1.00 = R$ 3,27
 
