@@ -16,13 +16,13 @@ DESAFIO 08 - Escreva um programa que leia um valor em metros e converta para cen
 
 DESAFIO 09 - Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.✅
 
-DESAFIO 10 - Crie um programa que leia quanto dinheiro a pessoa tem na carteira e quantos dolares ela pode comprar, US$1.00 = R$ 3,27
+DESAFIO 10 - Crie um programa que leia quanto dinheiro a pessoa tem na carteira e quantos dolares ela pode comprar, US$1.00 = R$ 5.16✅
 
-DESAFIO 11 - Programa que leia a largura e altura da parede em metros e calcule a área e quantidade de tinta necessária para pinta-la, sabendo que cada litro pinta uma area de 2m²
+DESAFIO 11 - Programa que leia a largura e altura da parede em metros e calcule a área e quantidade de tinta necessária para pinta-la, sabendo que cada litro pinta uma area de 2m²✅
 
-DESAFIO 12 - Faça um programa que leia o preço de um produto e depois mostre o valor com 5% de desconto
+DESAFIO 12 - Faça um programa que leia o preço de um produto e depois mostre o valor com 5% de desconto.✅
 
-DESAFIO 13 - Faça um algoritimo que le o salário do usuario e mostre seu novo salario com 15% de aumento.
+DESAFIO 13 - Faça um algoritimo que leia o salário do usuario e mostre seu novo salario com 15% de aumento.✅
 
 DESAFIO 14 -
 
