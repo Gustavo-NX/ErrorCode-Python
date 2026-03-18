@@ -34,9 +34,9 @@ DESAFIO 17 - Faça um programa que leia o comprimento de um cateto oposto e do c
 
 DESAFIO 18 - Faça um programa que leia um angulo qualquer e mostre o seno, cosseno e tangente desse ângulo ✅
 
-DESAFIO 19 - Um professor quer sortear um dos seus quatro alunos para apagar o quadro . Faça um programa que ajude ele lendo o nome e escrevendo o escolhido
+DESAFIO 19 - Um professor quer sortear um dos seus quatro alunos para apagar o quadro . Faça um programa que ajude ele lendo o nome e escrevendo o escolhido ✅
 
-DESAFIO 20 - O professor quer sortear ordem a ordem de apresentação leia os quatro alunos e mostre uma lista com a ordem.
+DESAFIO 20 - O professor quer sortear ordem a ordem de apresentação leia os quatro alunos e mostre uma lista com a ordem. ✅
 
 DESAFIO 21 - Faça um programa que abra e reproduza um áudio de arquivo MP3
 
