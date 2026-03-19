@@ -4,6 +4,4 @@ from math import trunc
 valor1 = float(input('Digite um número quebrado(com vírgula): '))
 
 print('')
-print('^' * 60)
 print(f'O número {valor1} tem como número inteiro {trunc(valor1)}')
-print('')
