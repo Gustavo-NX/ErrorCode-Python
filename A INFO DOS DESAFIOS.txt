@@ -1,3 +1,6 @@
+EM NENHUM DESAFIO É UTILIZADO AUXILIO DE RESOLUÇÃO! 
+ps: a não ser formulas matemáticas para revisar conteudo
+
 DESAFIO 01 - Criar um Script Python que leia o nome da pessoa e mostre uma mensagem dando boas vindas de acordo com o valor digitado ✅
 
 DESAFIO 02 - Criar um Script Python que leia o dia, mês e o ano de nascimento e que mostre com o formato correto da data ✅
@@ -40,7 +43,7 @@ DESAFIO 20 - O professor quer sortear ordem a ordem de apresentação leia os qu
 
 DESAFIO 21 - Faça um programa que abra e reproduza um áudio de arquivo MP3 ✅
 
-DESAFIO 22 - CRIE UM PROGRAMA QUE LEIA O NOME COMPLETO DE UMA PESSOA E MOSTRE: (todas as letras maiusculas, todas as letras minusculas, quantas letrar ao todo sem considerar espaços, quantas tem o primeiro nmnome)
+DESAFIO 22 - CRIE UM PROGRAMA QUE LEIA O NOME COMPLETO DE UMA PESSOA E MOSTRE: (todas as letras maiusculas, todas as letras minusculas, quantas letrar ao todo sem considerar espaços, quantas tem o primeiro nmnome) ✅
 
 DESAFIO 23 - programa que leia um número de 0 a 9999 e mostre na tela cada um dos digitos separados. ex: 1834 (unidade 4 , dezena 3 ,centea: 8, milhar: 1)
 
