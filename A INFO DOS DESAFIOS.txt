@@ -45,9 +45,9 @@ DESAFIO 21 - Faça um programa que abra e reproduza um áudio de arquivo MP3 ✅
 
 DESAFIO 22 - CRIE UM PROGRAMA QUE LEIA O NOME COMPLETO DE UMA PESSOA E MOSTRE: (todas as letras maiusculas, todas as letras minusculas, quantas letrar ao todo sem considerar espaços, quantas tem o primeiro nmnome) ✅
 
-DESAFIO 23 - programa que leia um número de 0 a 9999 e mostre na tela cada um dos digitos separados. ex: 1834 (unidade 4 , dezena 3 ,centea: 8, milhar: 1)
+DESAFIO 23 - programa que leia um número de 0 a 9999 e mostre na tela cada um dos digitos separados. ex: 1834 (unidade 4 , dezena 3 ,centea: 8, milhar: 1)✅ com auxilio
 
-DESAFIO 24 - Leia o nome de uma cidade e ele vai dizer se a cidade começa ou nao com o nome 'Santo'
+DESAFIO 24 - Leia o nome de uma cidade e ele vai dizer se a cidade começa ou nao com o nome 'Santo'✅
 
 DESAFIO 25 - leia nome de uma pessoa e diga se tem silva no nome
 
