@@ -49,9 +49,9 @@ DESAFIO 23 - programa que leia um número de 0 a 9999 e mostre na tela cada um d
 
 DESAFIO 24 - Leia o nome de uma cidade e ele vai dizer se a cidade começa ou nao com o nome 'Santo'✅
 
-DESAFIO 25 - leia nome de uma pessoa e diga se tem silva no nome
+DESAFIO 25 - leia nome de uma pessoa e diga se tem silva no nome ✅
 
-DESAFIO 26 - leia frase (quantas letras "A", em que posição ela aparece a primeira vez, em qual a ultima vez)
+DESAFIO 26 - leia frase (quantas letras "A", em que posição ela aparece a primeira vez, em qual a ultima vez) 
 
 DESAFIO 27 - Leina nome e mostre primeiro e último nome Ex: Ana Maraia Souza primeiro= Ana , ultimo = Souza
 
