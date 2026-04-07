@@ -59,7 +59,7 @@ DESAFIO 28 - Programa que faça o computador "pensar" em um número inteiro entr
 
 DESAFIO 29 - Leia a velocidade de um carro se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que tomou multa e calcule quando vai custar a multa, sabendo que vale 7 reais por cada Km acima do limite✅
 
-DESAFIO 30 - leia numero inteiro e mostre se é par ou impar
+DESAFIO 30 - leia numero inteiro e mostre se é par ou impar✅
 
 DESAFIO 31 - um programa que pergunte a distância de uma viagem em KM. Calcule preço da passagem, cobrandop 0,50 por km para viagens de até 200km e 0,45 para viagens mais longas
 
