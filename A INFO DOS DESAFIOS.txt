@@ -61,13 +61,13 @@ DESAFIO 29 - Leia a velocidade de um carro se ele ultrapassar 80Km/h, mostre uma
 
 DESAFIO 30 - leia numero inteiro e mostre se é par ou impar✅
 
-DESAFIO 31 - um programa que pergunte a distância de uma viagem em KM. Calcule preço da passagem, cobrandop 0,50 por km para viagens de até 200km e 0,45 para viagens mais longas
+DESAFIO 31 - um programa que pergunte a distância de uma viagem em KM. Calcule preço da passagem, cobrandop 0,50 por km para viagens de até 200km e 0,45 para viagens mais longas✅
 
-DESAFIO 32 - programa que lia o no e mostre se ele é bissexto
+DESAFIO 32 - programa que leia o no e mostre se ele é bissexto✅
 
-DESAFIO 33 - leia três números e diga qual o maior e qual o menor
+DESAFIO 33 - leia três números e diga qual o maior e qual o menor✅
 
-DESAFIO 34 - Programa que pergunte o salário de um funcionario e calcule o valor do seu aumento, para sálario superiores a 1.250 calcule aumento de 10% , epara inferioes ou iguais o aumento é de 15%
+DESAFIO 34 - Programa que pergunte o salário de um funcionario e calcule o valor do seu aumento, para sálario superiores a 1.250 calcule aumento de 10% , epara inferioes ou iguais o aumento é de 15%✅
 
 DESAFIO 35 - Um programa que leia o comprimento de três retas e diga ao usuârio se ele pode ou não formar um triângulo
 
