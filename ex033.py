@@ -8,4 +8,7 @@ for i in range(3):
 lista.sort()
 
 print('')
+print(f'O menor valor digitado é: {lista[0]}')
+print(f'O meaior valor digitado é: {lista[2]}')
+print('')
 print(f'Ordem menor para o maior: {lista[0]} {lista[1]} {lista[2]}')

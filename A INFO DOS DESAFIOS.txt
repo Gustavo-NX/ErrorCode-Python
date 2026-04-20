@@ -69,7 +69,7 @@ DESAFIO 33 - leia três números e diga qual o maior e qual o menor✅
 
 DESAFIO 34 - Programa que pergunte o salário de um funcionario e calcule o valor do seu aumento, para sálario superiores a 1.250 calcule aumento de 10% , epara inferioes ou iguais o aumento é de 15%✅
 
-DESAFIO 35 - Um programa que leia o comprimento de três retas e diga ao usuârio se ele pode ou não formar um triângulo
+DESAFIO 35 - Um programa que leia o comprimento de três retas e diga ao usuârio se ele pode ou não formar um triângulo✅
 
 DESAFIO 36 -
 
