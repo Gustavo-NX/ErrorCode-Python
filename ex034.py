@@ -5,7 +5,7 @@ print('')
 
 if salario > 1250:
     aumento = (salario * 0.10)
-    print(f'Você receberá um aumento de 10% equivalente a R${aumento:.2f}, totalizando: R${aumento + salario:.2f}')
+    print(f'Você receberá um aumento de 10% equivalente a \033[1;33mR${aumento:.2f}\033[m, totalizando: \033[1;32mR${aumento + salario:.2f}\033[m')
 else:
     aumento = salario * 0.15
-    print(f'Você receberá um aumento de 15% equivalente a R${aumento:.2f}, totalizando: R${aumento + salario:.2f}')
+    print(f'Você receberá um aumento de 15% equivalente a \033[1;33mR${aumento:.2f}\033[m, totalizando: \033[1;32mR${aumento + salario:.2f}\033[m')

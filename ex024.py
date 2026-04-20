@@ -4,8 +4,8 @@ cidade = input('Digite o nome de alguma cidade: ').strip()
 santo = cidade.find('Santo')
 
 if santo == 0:
-    print('A cidade começa com Santo')
+    print('\033[1;32mA cidade começa com Santo\033[m')
 elif santo > 0:
-    print('Está cidade não começa com o nome Santo')
+    print('\033[1;34mEstá cidade não começa com o nome Santo\033[m')
 else:
-    print('Não consta o nome Santo nessa cidade')
+    print('\033[1;31mNão consta o nome Santo nessa cidade\033[m')

@@ -5,8 +5,8 @@ separado = nome.split()
 
 print('')
 
-print(f"""NOME: {nome}
+print(f"""NOME: \033[1;33m{nome}\033[m
           
-    Primeiro : {separado[0]}
+    Primeiro : \033[1;32m{separado[0]}\033[m
 
-    Último   : {separado[len(separado)-1]}""")
+    Último   : \033[1;31m{separado[len(separado)-1]}\033[m""")

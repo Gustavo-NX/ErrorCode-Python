@@ -5,6 +5,6 @@ silva = nome.find('Silva')
 print('')
 
 if silva == -1 :
-    print('Não contem Silva neste nome')
+    print('\033[1;31mNão contem Silva neste nome\033[m')
 else:
-    print('Pelo nome completo vemos o sobrenome Silva')
+    print('\033[1;32mPelo nome completo vemos o sobrenome Silva\033[m')

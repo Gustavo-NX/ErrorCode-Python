@@ -8,7 +8,7 @@ for i in range(3):
 lista.sort()
 
 print('')
-print(f'O menor valor digitado é: {lista[0]}')
-print(f'O meaior valor digitado é: {lista[2]}')
+print(f'O menor valor digitado é: \033[1;31m{lista[0]}\033[m')
+print(f'O maior valor digitado é: \033[1;32m{lista[2]}\033[m')
 print('')
-print(f'Ordem menor para o maior: {lista[0]} {lista[1]} {lista[2]}')
+print(f'Ordem menor para o maior: \033[1;33m{lista[0]} {lista[1]} {lista[2]}\033[m')

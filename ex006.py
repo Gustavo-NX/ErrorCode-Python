@@ -1,5 +1,5 @@
 valor = int(input('Me de algum valor: '))
 print('')
-print('O dobro deste número é: {}'.format(valor**2))
-print('O triplo é: {}'.format(valor**3))
-print('E a raiz quadrada é: {:.2f}'.format(valor**(1/2)))
+print('O dobro deste número é: \033[1;30m{}\033[m'.format(valor**2))
+print('O triplo é: \033[1;33m{}\033[m'.format(valor**3))
+print('E a raiz quadrada é: \033[1;32m{:.2f}\033[m'.format(valor**(1/2)))

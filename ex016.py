@@ -4,4 +4,4 @@ from math import trunc
 valor1 = float(input('Digite um número quebrado(com vírgula): '))
 
 print('')
-print(f'O número {valor1} tem como número inteiro {trunc(valor1)}')
+print(f'O número \033[1;33m{valor1}\033[m tem como número inteiro \033[1;32m{trunc(valor1)}\033[m')

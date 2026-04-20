@@ -5,10 +5,10 @@ dividido = nome.split()
 print('')
 print(f""" MOSTRANDO SEU NOME DE DIFERENTES MODOS
       
-      MAIUSCULA: {nome.upper()}
+      MAIUSCULA: \033[1;32m{nome.upper()}\033[m
       
-      minuscula: {nome.lower()}
+      minuscula: \033[1;31m{nome.lower()}\033[m
       
-      qtd de letras: {len(nome) - nome.count(' ')}
+      qtd de letras: \033[1;33m{len(nome) - nome.count(' ')}\033[m
       
-      qtd primeiro nome: {len(dividido[0])}""")
+      qtd primeiro nome: \033[1;37m{len(dividido[0])}\033[m""")

@@ -9,9 +9,9 @@ u = numero // 1 % 10 # a vaviavel u não precisa da conta (numero // 1 % 10) por
 
 print('')
 print(f"""  DADOS  
-      Número escolhido: {numero}
+      Número escolhido: \033[1;36m{numero}\033[m
       
-      Milhar: {m}
-      Centena: {c}
-      Dezena: {d}
-      Unidade: {u}""")
+      Milhar: \033[1;33m{m}\033[m
+      Centena: \033[1;33m{c}\033[m
+      Dezena: \033[1;33m{d}\033[m
+      Unidade: \033[1;33m{u}\033[m""")

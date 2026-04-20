@@ -3,10 +3,10 @@ kelvin = celsius + 273.15
 fahrenheit = (celsius * 1.8)+32
 
 print('*' * 50)
-print('De {:.2f} graus Celsius(°C)'.format(celsius))
+print('De \033[1;31m{:.2f}\033[m graus Celsius(°C)'.format(celsius))
 print('Veja a conversão em:')
-print('Fahrenheit(°F): {:.2f}'.format(fahrenheit))
-print('Kelvin(°K): {:.2f}'.format(kelvin))
+print('Fahrenheit(°F): \033[1;31m{:.2f}\033[m'.format(fahrenheit))
+print('Kelvin(°K): \033[1;31m{:.2f}\033[m'.format(kelvin))
 print('*' * 50)
 
 

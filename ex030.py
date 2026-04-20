@@ -4,6 +4,6 @@ numero = int(input('Digite um núemro: '))
 print('')
 
 if numero % 2 == 0:
-    print('Este numero é par')
+    print('\033[1;36mEste numero é par\033[m')
 else:
-    print('Este número é impar')
+    print('\033[1;34mEste número é impar\033[m')

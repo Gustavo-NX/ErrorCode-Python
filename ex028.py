@@ -10,10 +10,10 @@ valor = int(input('Digite o número entre 0 e 5 vamos ver se acertou o que eu es
 
 
 if valor == cerebro:
-    print('PARABÉNS VOCÊ ACERTOU!')
+    print('\033[1;32mPARABÉNS VOCÊ ACERTOU!\033[m')
     playsound("https://www.myinstants.com/media/sounds/app-12_1.mp3")
 elif valor >= 6:
-    print('digite um número válido!!')
+    print('\033[1;31mdigite um número válido!!\033[m')
     playsound("https://www.myinstants.com/media/sounds/voce-e-burro-burro-burro.mp3")
 else:
-    print('nao foi dessa vez')
+    print('\033[1;33;40mNão foi dessa vez\033[m')
