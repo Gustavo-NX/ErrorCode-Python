@@ -75,7 +75,7 @@ DESAFIO 36 - Programa para aprovar o empréstimo bancário para a compra de uma 
 
 DESAFIO 37 - Programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão ( Binário , Octal, Hexadecimal)
 
-DESAFIO 38 - Programa que leia dois números e compare o dizendo se o primeiro número é o maior, se o segundo é o maior, se não existe valor maior, os dois são iguais
+DESAFIO 38 - Programa que leia dois números e compare o dizendo se o primeiro número é o maior, se o segundo é o maior, se não existe valor maior, os dois são iguais✅
 
 DESAFIO 39 - Programa que leia ano de nascimento e informe de acordo com usa idade,( Se ele ainda vai se alistar ao serviço militar, se é hora de se alistar, se passou o tempo) deve mostrar quanto tempo falta ou quanto já passou
 
