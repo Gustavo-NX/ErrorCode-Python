@@ -71,21 +71,21 @@ DESAFIO 34 - Programa que pergunte o salário de um funcionario e calcule o valo
 
 DESAFIO 35 - Um programa que leia o comprimento de três retas e diga ao usuârio se ele pode ou não formar um triângulo✅
 
-DESAFIO 36 - Programa para aprovar o empréstimo bancário para a compra de uma casa, O programa vai perguntar o VALOR DA CASA, o SÁLARIO do comprador e em QUANTOS ANOS ele vai pagar| Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado
+DESAFIO 36 - Programa para aprovar o empréstimo bancário para a compra de uma casa, O programa vai perguntar o VALOR DA CASA, o SÁLARIO do comprador e em QUANTOS ANOS ele vai pagar| Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado✅
 
 DESAFIO 37 - Programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão ( Binário , Octal, Hexadecimal)
 
 DESAFIO 38 - Programa que leia dois números e compare o dizendo se o primeiro número é o maior, se o segundo é o maior, se não existe valor maior, os dois são iguais✅
 
-DESAFIO 39 - Programa que leia ano de nascimento e informe de acordo com usa idade,( Se ele ainda vai se alistar ao serviço militar, se é hora de se alistar, se passou o tempo) deve mostrar quanto tempo falta ou quanto já passou
+DESAFIO 39 - Programa que leia ano de nascimento e informe de acordo com usa idade,( Se ele ainda vai se alistar ao serviço militar, se é hora de se alistar, se passou o tempo) deve mostrar quanto tempo falta ou quanto já passou✅
 
-DESAFIO 40 - Leia duas notas de um aluno e calcule sua média mostrando uma mensagem no final de acordo com a média (abaixo de 5.0 = reprovado , entre 5,0 e 6,9 = recuperação, 7.0 ou superior = aprovado)
+DESAFIO 40 - Leia duas notas de um aluno e calcule sua média mostrando uma mensagem no final de acordo com a média (abaixo de 5.0 = reprovado , entre 5,0 e 6,9 = recuperação, 7.0 ou superior = aprovado)✅
 
-DESAFIO 41 - A confederação Nacional de natação precisa de um programador que leia o ano de nascimento de um atleta e moste sua categoria, de acordo com a idade,(até 9 = Mirim, até 14 = Infantil, até 19 = Junior, Até 20 = Senior, Acima = Master)
+DESAFIO 41 - A confederação Nacional de natação precisa de um programador que leia o ano de nascimento de um atleta e moste sua categoria, de acordo com a idade,(até 9 = Mirim, até 14 = Infantil, até 19 = Junior, Até 20 = Senior, Acima = Master)✅
 
-DESAFIO 42 - efaça o Desafio 35 dos triangulos, acrescentando o recurso de mostrar qual tipo de triangulo será formado,( Equilatero = todos os lados iguais, Isóceles: dois lados iguais, Escaleno = todos os lados diferentes)
+DESAFIO 42 - Refaça o Desafio 35 dos triangulos, acrescentando o recurso de mostrar qual tipo de triangulo será formado,( Equilatero = todos os lados iguais, Isóceles: dois lados iguais, Escaleno = todos os lados diferentes)
 
-DESAFIO 43 -  Desenvolva uma lógica que lia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status, de acordo com a tabela abaixo: (abaixo de 18.5 = abaixo do peso, entre 18.5 e 25 = peso ideal, 25 até 30 = Sobrepeso, 30 até 40 = Obesidade, Acima de 40 = Obesidade mórbida)
+DESAFIO 43 -  Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status, de acordo com a tabela abaixo: (abaixo de 18.5 = abaixo do peso, entre 18.5 e 25 = peso ideal, 25 até 30 = Sobrepeso, 30 até 40 = Obesidade, Acima de 40 = Obesidade mórbida)
 
 DESAFIO 44 - Calcule o valor a ser pago por um produto considerando o seu PREÇO NORMAL er CONDIÇÃO DE PAGAMENTO ( a vista/cheque = 10% desconto, a vista cartão = 5%desconto, em até 2x = preço normal, 3x ou mais = 20% de juros)
 
