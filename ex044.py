@@ -24,6 +24,36 @@ if escolha == 1:
     Valor do protudo: {valorProduto}
     10% de desconto a vista
     
-    TOTAL: {valorProduto - (valorProduto * 0.1)}\n""")
-
-#Em Andamento
+    TOTAL: R${valorProduto - (valorProduto * 0.1)}\n""")
+elif escolha == 2:
+    print(f"""
+    {'-'*25}
+            COMPROVANTE
+    {'-'*25}
+    
+    Valor do protudo: {valorProduto}
+    Cartão a vista: 5% de desconto
+    
+    TOTAL: R${valorProduto - (valorProduto * 0.05)}\n""")
+elif escolha == 3:
+    parcela = int(input('Em quantas vezes deseja parcelar: '))
+    if parcela == 1 or parcela == 2:
+        print(f"""
+        {'-'*25}
+            COMPROVANTE
+        {'-'*25}
+    
+        Valor do protudo: {valorProduto}
+        Cartão em {parcela}x: sem desconto ou juros
+    
+        TOTAL: R${valorProduto}\n""")
+    else:
+        print(f"""
+        {'-'*25}
+            COMPROVANTE
+        {'-'*25}
+    
+        Valor do protudo: {valorProduto}
+        Cartão em {parcela}x: com 20% de juros
+    
+        TOTAL: R${valorProduto + (valorProduto * 0.2)}\n""")

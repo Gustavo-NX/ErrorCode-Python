@@ -87,7 +87,7 @@ DESAFIO 42 - Refaça o Desafio 35 dos triangulos, acrescentando o recurso de mos
 
 DESAFIO 43 -  Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status, de acordo com a tabela abaixo: (abaixo de 18.5 = abaixo do peso, entre 18.5 e 25 = peso ideal, 25 até 30 = Sobrepeso, 30 até 40 = Obesidade, Acima de 40 = Obesidade mórbida)
 
-DESAFIO 44 - Calcule o valor a ser pago por um produto considerando o seu PREÇO NORMAL er CONDIÇÃO DE PAGAMENTO ( a vista/cheque = 10% desconto, a vista cartão = 5%desconto, em até 2x = preço normal, 3x ou mais = 20% de juros)
+DESAFIO 44 - Calcule o valor a ser pago por um produto considerando o seu PREÇO NORMAL er CONDIÇÃO DE PAGAMENTO ( a vista/cheque = 10% desconto, a vista cartão = 5%desconto, em até 2x = preço normal, 3x ou mais = 20% de juros)✅
 
 DESAFIO 45 - Programa que faça o computador jogar Jokenpô.
 
