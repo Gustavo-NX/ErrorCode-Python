@@ -17,6 +17,10 @@ else:
     {'-'*30}\n""")
     escolha = int(input('Digite Aqui: '))
     if escolha == 1:
-        valor1 = numero / 2
+        print(f'{numero} convertido para binário: {bin(numero)[2:]}\n')
+    elif escolha == 2:
+        print(f'{numero} convertido para binário: {oct(numero)[2:]}\n')
+    else:
+        print(f'{numero} convertido para binário: {hex(numero)[2:]}\n')
 
 #EM ANDAMENTO
